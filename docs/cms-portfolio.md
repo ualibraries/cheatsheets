@@ -6,6 +6,7 @@
 
 * [new.library.arizona.edu](http://new.library.arizona.edu)
 * Drupal 7, manual updates
+* Test, staging, and production environments
 
 ### Old Main Library Website
 
@@ -16,6 +17,7 @@
 
 * [speccoll.library.arizona.edu](http://speccoll.library.arizona.edu)
 * Drupal 7, manual updates
+* Dev and production environments
 
 ### Data Management Resources
 
@@ -38,6 +40,7 @@
 
 * [uapress.arizona.edu](https://uapress.arizona.edu)
 * WordPress core and plugins managed by Composer, manual updates
+* Test and production environments
 
 ### Vaudeville Exhibit
 
