@@ -8,6 +8,8 @@
 * Drupal 7, manual updates
 * Test, staging, and production environments
 
+### speccoll.library.arizona.edu
+
 * [speccoll.library.arizona.edu](http://speccoll.library.arizona.edu)
 * Drupal 7, manual updates
 * Dev and production environments
