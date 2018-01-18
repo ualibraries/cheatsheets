@@ -11,7 +11,12 @@
 ### Old Main Library Website
 
 * [www.library.arizona.edu](http://www.library.arizona.edu/user)
-* Drupal 6, manual updates
+* Drupal 6, updates by vendor
+
+### Health Sciences Library Website
+
+* [ahsl.arizona.edu](https://ahsl.arizona.edu)
+* Drupal 6, updates by vendor
 
 ### Special Collections Main Website
 
