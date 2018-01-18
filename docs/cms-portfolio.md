@@ -8,18 +8,6 @@
 * Drupal 7, manual updates
 * Test, staging, and production environments
 
-### Old Main Library Website
-
-* [www.library.arizona.edu](http://www.library.arizona.edu/user)
-* Drupal 6, updates by vendor
-
-### Health Sciences Library Website
-
-* [ahsl.arizona.edu](https://ahsl.arizona.edu)
-* Drupal 6, updates by vendor
-
-### Special Collections Main Website
-
 * [speccoll.library.arizona.edu](http://speccoll.library.arizona.edu)
 * Drupal 7, manual updates
 * Dev and production environments
@@ -50,12 +38,14 @@
 ### Old Main Library Website
 
 * [www.library.arizona.edu](http://www.library.arizona.edu/user)
-* Drupal 6, manual updates
+* Drupal 6, updates by vendor
 
-### Health Sciences Library Main Website
+### Health Sciences Library Website
 
-* [ahsl.arizona.edu](http://ahsl.arizona.edu/user)
-* Drupal 6, manual updates
+* [ahsl.arizona.edu](https://ahsl.arizona.edu)
+* Drupal 6, updates by vendor
+
+### Special Collections Main Website
 
 ## WordPress
 
