@@ -55,4 +55,7 @@
 
 ## Omeka
 
-TODO: add Speccoll exhibits here
+### Special Collections Online Exhibits
+
+* [speccoll.library.arizona.edu/online-exhibits/](http://speccoll.library.arizona.edu/online-exhibits/)
+* Omeka 2.5, manual updates
