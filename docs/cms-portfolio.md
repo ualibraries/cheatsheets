@@ -8,11 +8,6 @@
 * Drupal 7, manual updates
 * Test, staging, and production environments
 
-### Old Main Library Website
-
-* [www.library.arizona.edu](http://www.library.arizona.edu/user)
-* Drupal 6, manual updates
-
 ### Special Collections Main Website
 
 * [speccoll.library.arizona.edu](http://speccoll.library.arizona.edu)
@@ -39,6 +34,18 @@
 * [reformation.arizona.edu](http://reformation.arizona.edu)
 * Drupal 7, UA Quickstart
 * *reformation.arizona.edu is going to be converted into static website*
+
+## Drupal 6
+
+### Old Main Library Website
+
+* [www.library.arizona.edu](http://www.library.arizona.edu/user)
+* Drupal 6, manual updates
+
+### Health Sciences Library Main Website
+
+* [ahsl.arizona.edu](http://ahsl.arizona.edu/user)
+* Drupal 6, manual updates
 
 ## WordPress
 
