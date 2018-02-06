@@ -47,8 +47,6 @@
 * [ahsl.arizona.edu](https://ahsl.arizona.edu)
 * Drupal 6, updates by vendor
 
-### Special Collections Main Website
-
 ## WordPress
 
 ### University of Arizona Press
