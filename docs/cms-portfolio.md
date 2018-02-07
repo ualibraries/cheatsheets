@@ -8,7 +8,7 @@
 * Drupal 7, manual updates
 * Test, staging, and production environments
 
-### speccoll.library.arizona.edu
+### Special Collections Main Website
 
 * [speccoll.library.arizona.edu](http://speccoll.library.arizona.edu)
 * Drupal 7, manual updates
@@ -46,8 +46,6 @@
 
 * [ahsl.arizona.edu](https://ahsl.arizona.edu)
 * Drupal 6, updates by vendor
-
-### Special Collections Main Website
 
 ## WordPress
 
