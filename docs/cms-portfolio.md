@@ -67,17 +67,8 @@
 * [speccoll.library.arizona.edu/online-exhibits/](http://speccoll.library.arizona.edu/online-exhibits/)
 * Omeka 2.5, manual updates
 
-### Arizona 100 Online Exhibit
+### Legacy Special Collections Online Exhibits
 
-* [speccoll.library.arizona.edu/online-exhibits-dynamic/az100/](http://speccoll.library.arizona.edu/online-exhibits-dynamic/az100/)
-* Omeka 1.5, manual updates
-
-### Ken Wolfgang Online Exhibit
-
-* [speccoll.library.arizona.edu/online-exhibits-dynamic/front/wolfgang/index.php](http://speccoll.library.arizona.edu/online-exhibits-dynamic/front/wolfgang/index.php)
-* Omeka 1.4.2, manual updates
-
-### UAiR Online Exhibits
-
-* [digitalcommons.arizona.edu/x/exhibits](http://digitalcommons.arizona.edu/x/exhibits)
-* Omeka 0.9.2, manual updates
+* [Arizona 100 Online Exhibit](http://speccoll.library.arizona.edu/online-exhibits-dynamic/az100/)
+* [Ken Wolfgang Online Exhibit](http://speccoll.library.arizona.edu/online-exhibits-dynamic/front/wolfgang/index.php)
+* [UAiR Online Exhibits](http://digitalcommons.arizona.edu/x/exhibits)
