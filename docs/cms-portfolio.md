@@ -19,21 +19,10 @@
 * [data.library.arizona.edu](http://data.library.arizona.edu)
 * Drupal 7, manual updates
 
-### code.library
-
-* [code.library.arizona.edu](http://code.library.arizona.edua)
-* Drupal 7, manual updates
-
 ### University of Arizona Institutional Repository
 
 * [uair.library.arizona.edu](http://uair.library.arizona.edua)
 * Drupal 7, manual updates
-
-### reformation.arizona.edu
-
-* [reformation.arizona.edu](http://reformation.arizona.edu)
-* Drupal 7, UA Quickstart
-* *reformation.arizona.edu is going to be converted into static website*
 
 ## Drupal 6
 
