@@ -3,4 +3,5 @@
 - [AWS CLI](awscli.md)
 - [SiteImprove](siteimprove.md)
 - [CMS Portfolio](cms-portfolio.md)
+- [Custom Application Portfolio](custom-app-portfolio.md)
 - [Drupal Site Updates](cms-upgrade-instructions.md)
