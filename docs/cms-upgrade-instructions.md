@@ -1,7 +1,7 @@
 # Drupal Site Updates
 
 ## Important notes about specific sites
-Check the [Web Application Scanning and Security wiki page](http://redmine.library.arizona.edu/projects/webapp-scanning/wiki/Important_Notes_about_upgrading_Drupal_7_sites) (University of Arizona Staff Access Only) in Redmine for important notes about the specific Drupal instances. This includes specific information about speccoll.library.arizona.edu, uair.library.arizona.edu, and data.library.arizona.edu. **It will be very important to read these notes before installing updates**. 
+Check the [Web Application Scanning and Security wiki page](https://redmine.library.arizona.edu/projects/dev-and-platforms/wiki/Important_Notes_about_upgrading_Drupal_7_sites) (University of Arizona Staff Access Only) in Redmine for important notes about the specific Drupal instances. This includes specific information about speccoll.library.arizona.edu, uair.library.arizona.edu, and data.library.arizona.edu. **It will be very important to read these notes before installing updates**. 
 
 ## Using Phing (Mainsite)
 0. Read the release notes
